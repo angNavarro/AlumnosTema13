@@ -1,0 +1,23 @@
+María Gómez:8.2 7.5 9.0
+Juan Pérez del Corral:6.8 5.9 7.2
+Ana Sánchez:9.5 8.7 9.3
+Luis Laverde de la Rosa:7.0 6.3 7.8
+María del Carmen Ponce:8.9 9.1 8.5
+Miguel Díaz:6.5 1.2 6.9
+Lucía Pava de la Torre:8.7 8.0 9.1
+José Javier Sánchez del Castillo:7.4 6.8 7.6
+Marta Carla Gómez Sánchez:9.2 8.9 9.0
+David Pérez Martínez:6.3 7.1 6.7
+Natalia Ponce de León:8.5 8.2 8.8
+Pablo Laverde:7.8 7.0 8.1
+Irene Díaz de León:3.0 4.6 2.2
+Alejandro Sánchez del Pinar:6.9 7.5 6.4
+Sofía Gómez Ponce:8.3 8.7 8.1
+Juan Castro:9.2 2.2 5.9
+Miguel Angel:9.2 2.2 5.9
+Juan Perez:6.4 3.4 1.9
+Miguel Perez:6.4 3.4 1.9
+Juan Perez:6.4 3.4 1.9
+Miguel Perez:6.4 3.4 1.9
+Juan Perez:6.4 3.4 1.9
+Miguel Perez:6.4 3.4 1.9
